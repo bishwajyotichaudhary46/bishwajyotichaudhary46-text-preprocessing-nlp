@@ -1,0 +1,5 @@
+nltk
+ipykernel
+spacy
+textblob
+pandas
